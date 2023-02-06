@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/layout-habits.png" width="100%">
+  <img alt="projeto DevLinks" src="imagemProjeto.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -26,7 +26,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
+- Javascript
+- Typescript
+- Prisma
+- Tailwind
 - Git e Github
 - Figma
 
@@ -34,11 +37,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este **projeto** consiste em ajudar você a fazer uma checklist do seu dia a dia, **registrando os hábitos** feitos e acompanhando de forma precisa os seus hábitos **diários**.
 
--[Visite o projeto online]()
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/UDDsvA7nIqR5VYCUqqT82i/Habits-(i)-(Community)?node-id=6%3A343&t=JRj1LsM8xDER7Yb9-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
