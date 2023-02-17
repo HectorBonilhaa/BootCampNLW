@@ -4,8 +4,8 @@
   "description": "",
   "main": "soma.js",
   "scripts": {
-    "dev": "nodemon src/server.ts",
-    "vercel-build": "npx prisma migrate deploy"
+    "dev": "tsx watch src/server.ts",
+    "vercel-build": "npx prisma migrate dev"
   },
   "keywords": [],
   "author": "",
